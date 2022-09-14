@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalebStandridge_CTA5_Option2", "CalebStandridge_CTA5_Option2\CalebStandridge_CTA5_Option2.vcxproj", "{068AB802-7DA9-49FC-BD7E-51D72E47894A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Debug|x64.ActiveCfg = Debug|x64
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Debug|x64.Build.0 = Debug|x64
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Debug|x86.ActiveCfg = Debug|Win32
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Debug|x86.Build.0 = Debug|Win32
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Release|x64.ActiveCfg = Release|x64
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Release|x64.Build.0 = Release|x64
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Release|x86.ActiveCfg = Release|Win32
+		{068AB802-7DA9-49FC-BD7E-51D72E47894A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AD4B3F-56B4-4190-837C-74509DF4E04C}
+	EndGlobalSection
+EndGlobal
